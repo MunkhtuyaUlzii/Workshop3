@@ -1,0 +1,11 @@
+---
+title: "Workshop3 test"
+author: "MunkhtuyaUlzii (s4651732)"
+date: "8/16/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
